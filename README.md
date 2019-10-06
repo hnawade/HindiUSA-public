@@ -9,4 +9,4 @@ The code of this application has been protected and is not available in a public
 I spent more than a year developing a smartphone app that helps learning a foreign language.
 I volunteer with a non-profit organization called Hindi-USA that teaches Hindi to young students, and this organization is using my app for deploying their educational material.
 The app is inspired by an existing app “Quizlet”, however is more focused on image based vocabulary development.
-I have kept a journal, periodically documenting my progress on this project has it evolved. The blog can be found ![here](http://hindiusaflashcards.blogspot.com/2016/05/)
+I have kept a journal, periodically documenting my progress on this project has it evolved. The blog can be found [here](http://hindiusaflashcards.blogspot.com/2016/05/)
