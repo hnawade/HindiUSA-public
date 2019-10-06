@@ -14,3 +14,8 @@ I have kept a journal, periodically documenting my progress on this project has 
 ## Architecture Diagram
 
 ![Architecture Diagram](https://harshalnawade.s3.amazonaws.com/HindiUSA-Architecture-Diagram.png)
+
+
+## Security Flow
+
+![Security](https://harshalnawade.s3.amazonaws.com/HindiUSA-Security.png)
